@@ -1,2 +1,2 @@
 # RayNet
-Forms application utlilizing Integrated webbrowser
+Forms application utlilizing Integrated web browser and uri parsing.
